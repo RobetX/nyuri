@@ -1,7 +1,4 @@
-# git clone https://github.com/RobetX/nyuri
+# SC SUDAH DI HAPUS 
 
-# ls
 
-# cd nyuri
-
-# python ig.py
+# IM SORRY 
